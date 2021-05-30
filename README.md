@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ali Siddique</h1>
-<h3 align="center">Just Another WordPress Developer | CMS & WooCommerce Expert | Graphic Designer 🤘 </h3>
+<h1 align="center">Hi 👋, I'm Mohammed Morse</h1>
+<h3 align="center">Just Another Android Engineer | UI and UX Fan 🤘 </h3>
 
-- 🔭 I’m currently working on **N/A**
+- 🔭 I’m currently working on ExpertApps
 
-- 👯 I’m looking to collaborate on **N/A**
+- 👯 I’m looking to collaborate on Android Projects .
 
-- 👨‍💻 All of my projects are available at [alisiddique.com](alisiddique.com)
+- 👨‍💻 All of my projects are available online in play store are [tabseer](https://play.google.com/store/apps/details?id=com.expertapps.tabseer&lang=ar) , [Movie IMDB](https://apkpure.com/p/com.morse.movie) and i will upload EMIP Tonight [EMIP](https://play.google.com/store/apps/details?id=com.expertapps.tabseer&lang=ar)
 
-- 📝 I regulary write articles on [alisiddique.com](alisiddique.com)
+- 📝 I regulary write articles on Meduim too .
 
-- 📫 How to reach me **imalisiddique@gmail.com**
+- 📫 How to reach me **mohammedmorsefcis@gmail.com**
 
 ### Connect
 
-[![Linkedin Badge](https://img.shields.io/badge/-imalisiddique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imalisiddique/)](https://www.linkedin.com/in/imalisiddique/)
-[![Instagram Badge](https://img.shields.io/badge/-imalisiddique-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/imalisiddique/)](https://instagram.com/imalisiddique)
-[![Gmail Badge](https://img.shields.io/badge/-imalisiddique@gmail.com-010101?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imalisiddique@gmail.com)](mailto:imalisiddique@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-imalisiddique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imalisiddique/)](https://www.linkedin.com/in/mohammed-morse-486022151/)
+[![Instagram Badge](https://img.shields.io/badge/-imalisiddique-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/imalisiddique/)](https://www.instagram.com/morse2910/)
+[![Gmail Badge](https://img.shields.io/badge/-imalisiddique@gmail.com-010101?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imalisiddique@gmail.com)](mailto:mohammedmorsefcis@gmail.com)
 
 ### Technologies
 
