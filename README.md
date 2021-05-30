@@ -27,7 +27,7 @@
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-black?style=flat-square&logo=Clean_Architecture)
-![Presentation Layer Architecture Pattern](https://img.shields.io/badge/-Presentation_Layer_Architecture_Pattern-black?style=flat-square&logo=Presentation_Layer_Architecture Pattern)
+![Presentation Layer Architecture Pattern](https://img.shields.io/badge/-Presentation_Layer_Architecture_Pattern-black?style=flat-square&logo=Presentation_Layer_Architecture _Pattern)
 ![Fundamental Techniques of DI](https://img.shields.io/badge/-Fundamental Techniques of DI-black?style=flat-square&logo=Fundamental Techniques of DI)
 ![Dagger](https://img.shields.io/badge/-Dagger-black?style=flat-square&logo=Dagger)
 ![Hilt](https://img.shields.io/badge/-Hilt-black?style=flat-square&logo=Hilt)
