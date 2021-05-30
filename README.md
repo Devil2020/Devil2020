@@ -13,9 +13,9 @@
 
 ### Connect
 
-[![Linkedin Badge](https://img.shields.io/badge/-imalisiddique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imalisiddique/)](https://www.linkedin.com/in/mohammed-morse-486022151/)
-[![Instagram Badge](https://img.shields.io/badge/-imalisiddique-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/imalisiddique/)](https://www.instagram.com/morse2910/)
-[![Gmail Badge](https://img.shields.io/badge/-imalisiddique@gmail.com-010101?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imalisiddique@gmail.com)](mailto:mohammedmorsefcis@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-mohammedmorse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-morse-486022151/)](https://www.linkedin.com/in/mohammed-morse-486022151/)
+[![Instagram Badge](https://img.shields.io/badge/-mohammedmorse-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/morse2910/)](https://www.instagram.com/morse2910/)
+[![Gmail Badge](https://img.shields.io/badge/-mohammedmorsefcis@gmail.com-010101?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohammedmorsefcis@gmail.com)](mailto:mohammedmorsefcis@gmail.com)
 
 ### Technologies
 
