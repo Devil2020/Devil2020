@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Morse</h1>
 <h3 align="center">Just Another Android Engineer | UI and UX Fan 🤘 </h3>
 
-- 🔭 I’m currently working on ExpertApps
+- 🔭 I’m currently working on ExpertApps , before that i worked on 2 Companies too called [QuaNode and Mosanda ] .
 
 - 👯 I’m looking to collaborate on Android Projects .
 
