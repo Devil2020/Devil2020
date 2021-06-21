@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on Android Projects .
 
-- 👨‍💻 All of my projects are available online in play store are [Tabseer](https://play.google.com/store/apps/details?id=com.expertapps.tabseer&lang=ar) , [Movie IMDB](https://apkpure.com/p/com.morse.movie) and i will upload EMIP Tonight [EMIP](https://play.google.com/store/apps/details?id=com.expertapps.tabseer&lang=ar)
+- 👨‍💻 All of my projects are available online in play store are [Tabseer](https://play.google.com/store/apps/details?id=com.expertapps.tabseer&lang=ar) , [Movie IMDB](https://apkpure.com/p/com.morse.movie) and [EMIP](https://play.google.com/store/apps/details?id=com.expertapps.emip)
 
 - 📝 I regulary write articles on Meduim too .
 
